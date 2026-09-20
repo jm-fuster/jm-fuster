@@ -28,7 +28,7 @@ If you want to check rather than take my word for it, the commit history is the 
 
 [<img src="assets/pickpal.webp" alt="PickPal running on a phone and a laptop: a list of the people you keep track of, and AI-generated gift ideas with prices and shop links for one of them.">](https://jorgemolinafuster.com/work/pickpal)
 
-**PickPal** · AI gift advisor. My own product, in closed beta.
+**PickPal** · Reminds you before the date and suggests the gift. My own product, in closed beta.
 
 [Live](https://pickpal.jorgemolinafuster.com) · [Case study](https://jorgemolinafuster.com/work/pickpal) · [Design system](https://www.figma.com/community/file/1680278814366911639) · [Code](https://github.com/jm-fuster/PickPal)
 
