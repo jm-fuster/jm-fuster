@@ -12,6 +12,11 @@
 
 I help AI-first teams ship AI products their users trust, from field research to adoption.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/loop-dark.svg">
+  <img alt="Four stages. 01 Field research: interviews inside real clinics, not a lab. 02 Design and systems: Figma, variables with modes, components. 03 Directed build: my calls, Claude Code writes the code. 04 Adoption: demos, sales, and what people do next." src="assets/loop-light.svg">
+</picture>
+
 Today I design **SlothVet**, an AI assistant that turns a veterinary consultation into a clinical record, at Wakyma Innovation, where I am the only product profile on a technical team. I got there through customer support, which is still where a good part of my discovery comes from. The interesting problem, the one I keep choosing, is how a person and a model work together: how someone talks to an assistant, trusts it, catches it when it is wrong, and signs off on what it wrote.
 
 ## How I build
@@ -36,7 +41,12 @@ If you want to check rather than take my word for it, the commit history is the 
 
 **Research.** Discovery interviews inside real clinics, recordings of real appointments, surveys, tree testing, heuristic evaluation, think-aloud tests with SUS. Field research is the part I refuse to delegate.
 
-**Design systems in Figma.** Variables with modes, semantic tokens by alias, component sets with variants and states, tokens exported to code. Four of mine are published on Figma Community, with the files open so you can take them apart.
+**Design systems in Figma.** Variables with modes, semantic tokens by alias, component sets with variants and states, tokens exported to code. Four of mine are published on [Figma Community](https://www.figma.com/@jm_fuster), with the files open so you can take them apart.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/systems-dark.svg">
+  <img alt="Four design systems published on Figma Community. PickPal, own product: 374 variables, 28 component sets. Wallapop Meet, unofficial concept: 349 variables, 39 components. FlySplit, master's thesis: 186 variables, 44 components. World Press Photo, student concept: 178 variables, 33 components." src="assets/systems-light.svg">
+</picture>
 
 **Accessibility.** WCAG 2.2 AA is the floor, not the finish line. When contrast and aesthetics disagree, contrast wins.
 
