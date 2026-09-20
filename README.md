@@ -1,8 +1,6 @@
 <div align="center">
 
-# Jorge Molina Fuster
-
-**Product Designer · AI products · Design systems**
+[<img src="assets/hero.png" alt="From insights to moonshots. Jorge Molina, Product Designer: AI products and design systems." width="880">](https://jorgemolinafuster.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jorgemolinafuster.com-18181B?style=flat-square&logo=googlechrome&logoColor=FB4D3D)](https://jorgemolinafuster.com) [![Figma Community](https://img.shields.io/badge/Figma_Community-@jm__fuster-18181B?style=flat-square&logo=figma&logoColor=22D3EE)](https://www.figma.com/@jm_fuster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-jorge--molina--fuster-18181B?style=flat-square&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/jorge-molina-fuster/)
 
@@ -11,11 +9,6 @@
 ---
 
 I help AI-first teams ship AI products their users trust, from field research to adoption.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/loop-dark.svg">
-  <img alt="Four stages. 01 Field research: interviews inside real clinics, not a lab. 02 Design and systems: Figma, variables with modes, components. 03 Directed build: my calls, Claude Code writes the code. 04 Adoption: demos, sales, and what people do next." src="assets/loop-light.svg">
-</picture>
 
 Today I design **SlothVet**, an AI assistant that turns a veterinary consultation into a clinical record, at Wakyma Innovation, where I am the only product profile on a technical team. I got there through customer support, which is still where a good part of my discovery comes from. The interesting problem, the one I keep choosing, is how a person and a model work together: how someone talks to an assistant, trusts it, catches it when it is wrong, and signs off on what it wrote.
 
@@ -29,24 +22,38 @@ If you want to check rather than take my word for it, the commit history is the 
 
 ## Selected work
 
-| Project | What it is | Where to look |
-| :--- | :--- | :--- |
-| **PickPal** | AI gift advisor. My own product, in closed beta. | [Live](https://pickpal.jorgemolinafuster.com) · [Case study](https://jorgemolinafuster.com/work/pickpal) · [Design system](https://www.figma.com/community/file/1680278814366911639) · [Code](https://github.com/jm-fuster/PickPal) |
-| **FlySplit** | Cost sharing for non-commercial flights. Master's thesis, highest distinction. | [Case study](https://jorgemolinafuster.com/work/flysplit-flight-sharing) · [Design system](https://www.figma.com/community/file/1677753839261033635) |
-| **Wallapop Meet** | Unofficial concept, not affiliated with Wallapop. Chat agreements turned into structured meetups. | [Design system](https://www.figma.com/community/file/1678855760007300709) |
-| **World Press Photo App** | Unofficial student concept. Information architecture and a 178-variable system. | [Design system](https://www.figma.com/community/file/1680954998561761879) |
-| **This portfolio** | Bilingual, designed by me and built by directing Claude Code. WCAG 2.2 AA self-audit. | [Site](https://jorgemolinafuster.com) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+[<img src="assets/pickpal.png" alt="PickPal. Web app, 2026. Product Designer, directed the full-stack build with Claude Code. Human-AI interaction, UI design, design systems.">](https://jorgemolinafuster.com/work/pickpal)
+
+**PickPal** · AI gift advisor. My own product, in closed beta.
+
+[Live](https://pickpal.jorgemolinafuster.com) · [Case study](https://jorgemolinafuster.com/work/pickpal) · [Design system](https://www.figma.com/community/file/1680278814366911639) · [Code](https://github.com/jm-fuster/PickPal)
+
+</td>
+<td width="50%" valign="top">
+
+[<img src="assets/flysplit.png" alt="FlySplit. Cost sharing for non-commercial flights, a UOC master's thesis awarded the highest distinction.">](https://jorgemolinafuster.com/work/flysplit-flight-sharing)
+
+**FlySplit** · Cost sharing for non-commercial flights. Master's thesis, highest distinction.
+
+[Case study](https://jorgemolinafuster.com/work/flysplit-flight-sharing) · [Design system](https://www.figma.com/community/file/1677753839261033635)
+
+</td>
+</tr>
+</table>
+
+Two more design systems live on Figma Community without a written case study: **[Wallapop Meet](https://www.figma.com/community/file/1678855760007300709)**, an unofficial concept not affiliated with Wallapop, and **[World Press Photo App](https://www.figma.com/community/file/1680954998561761879)**, an unofficial student concept.
+
+Every image on this page, the banner included, is generated at build time from design tokens by **[my portfolio](https://jorgemolinafuster.com)**, with a contrast suite that re-audits each one. I designed that too, and built it by directing Claude Code.
 
 ## What I actually do all day
 
 **Research.** Discovery interviews inside real clinics, recordings of real appointments, surveys, tree testing, heuristic evaluation, think-aloud tests with SUS. Field research is the part I refuse to delegate.
 
 **Design systems in Figma.** Variables with modes, semantic tokens by alias, component sets with variants and states, tokens exported to code. Four of mine are published on [Figma Community](https://www.figma.com/@jm_fuster), with the files open so you can take them apart.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/systems-dark.svg">
-  <img alt="Four design systems published on Figma Community. PickPal, own product: 374 variables, 28 component sets. Wallapop Meet, unofficial concept: 349 variables, 39 components. FlySplit, master's thesis: 186 variables, 44 components. World Press Photo, student concept: 178 variables, 33 components." src="assets/systems-light.svg">
-</picture>
 
 **Accessibility.** WCAG 2.2 AA is the floor, not the finish line. When contrast and aesthetics disagree, contrast wins.
 
