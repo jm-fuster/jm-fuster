@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="assets/hero.png" alt="From insights to moonshots. Product Designer: AI products and design systems." width="880">](https://jorgemolinafuster.com)
+[<img src="assets/banner.png" alt="From insights to moonshots. Product Designer: AI products and design systems." width="880">](https://jorgemolinafuster.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jorgemolinafuster.com-18181B?style=flat-square&logo=googlechrome&logoColor=FB4D3D)](https://jorgemolinafuster.com) [![Figma Community](https://img.shields.io/badge/Figma_Community-@jm__fuster-18181B?style=flat-square&logo=figma&logoColor=22D3EE)](https://www.figma.com/@jm_fuster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-jorge--molina--fuster-18181B?style=flat-square&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/jorge-molina-fuster/)
 
