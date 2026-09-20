@@ -1,6 +1,6 @@
 <div align="center">
 
-[<img src="assets/hero.png" alt="From insights to moonshots. Jorge Molina, Product Designer: AI products and design systems." width="880">](https://jorgemolinafuster.com)
+[<img src="assets/hero.png" alt="From insights to moonshots. Product Designer: AI products and design systems." width="880">](https://jorgemolinafuster.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jorgemolinafuster.com-18181B?style=flat-square&logo=googlechrome&logoColor=FB4D3D)](https://jorgemolinafuster.com) [![Figma Community](https://img.shields.io/badge/Figma_Community-@jm__fuster-18181B?style=flat-square&logo=figma&logoColor=22D3EE)](https://www.figma.com/@jm_fuster) [![LinkedIn](https://img.shields.io/badge/LinkedIn-jorge--molina--fuster-18181B?style=flat-square&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/jorge-molina-fuster/)
 
@@ -26,7 +26,7 @@ If you want to check rather than take my word for it, the commit history is the 
 <tr>
 <td width="50%" valign="top">
 
-[<img src="assets/pickpal.png" alt="PickPal. Web app, 2026. Product Designer, directed the full-stack build with Claude Code. Human-AI interaction, UI design, design systems.">](https://jorgemolinafuster.com/work/pickpal)
+[<img src="assets/pickpal.webp" alt="PickPal running on a phone and a laptop: a list of the people you keep track of, and AI-generated gift ideas with prices and shop links for one of them.">](https://jorgemolinafuster.com/work/pickpal)
 
 **PickPal** · AI gift advisor. My own product, in closed beta.
 
@@ -35,7 +35,7 @@ If you want to check rather than take my word for it, the commit history is the 
 </td>
 <td width="50%" valign="top">
 
-[<img src="assets/flysplit.png" alt="FlySplit. Cost sharing for non-commercial flights, a UOC master's thesis awarded the highest distinction.">](https://jorgemolinafuster.com/work/flysplit-flight-sharing)
+[<img src="assets/flysplit.webp" alt="FlySplit running on a phone against a sky with a light aircraft: featured panoramic flights with their pilot, route, price and duration.">](https://jorgemolinafuster.com/work/flysplit-flight-sharing)
 
 **FlySplit** · Cost sharing for non-commercial flights. Master's thesis, highest distinction.
 
@@ -47,7 +47,7 @@ If you want to check rather than take my word for it, the commit history is the 
 
 Two more design systems live on Figma Community without a written case study: **[Wallapop Meet](https://www.figma.com/community/file/1678855760007300709)**, an unofficial concept not affiliated with Wallapop, and **[World Press Photo App](https://www.figma.com/community/file/1680954998561761879)**, an unofficial student concept.
 
-Every image on this page, the banner included, is generated at build time from design tokens by **[my portfolio](https://jorgemolinafuster.com)**, with a contrast suite that re-audits each one. I designed that too, and built it by directing Claude Code.
+The banner up there is not a picture of a design. It is rendered at build time from design tokens by **[my portfolio](https://jorgemolinafuster.com)**, with a test suite that re-audits its contrast on every change. I designed that site and built it by directing Claude Code, and it carries a WCAG 2.2 AA self-audit.
 
 ## What I actually do all day
 
