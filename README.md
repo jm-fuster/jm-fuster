@@ -45,6 +45,8 @@ If you want to check rather than take my word for it, the commit history is the 
 </tr>
 </table>
 
+**[Fill Good](https://fillgood.jorgemolinafuster.com)** · The shared household app: pantry with expiry alerts, a shopping list the whole home edits live, receipts read by AI into prices, and a weekly menu. My own product, in production since July 2026. [Live](https://fillgood.jorgemolinafuster.com) · [Code](https://github.com/jm-fuster/fill-good)
+
 Two more design systems live on Figma Community without a written case study: **[Wallapop Meet](https://www.figma.com/community/file/1678855760007300709)**, an unofficial concept not affiliated with Wallapop, and **[World Press Photo App](https://www.figma.com/community/file/1680954998561761879)**, an unofficial student concept.
 
 The banner up there is not a picture of a design. It is rendered at build time from design tokens by **[my portfolio](https://jorgemolinafuster.com)**, with a test suite that re-audits its contrast on every change. I designed that site and built it by directing Claude Code, and it carries a WCAG 2.2 AA self-audit.
