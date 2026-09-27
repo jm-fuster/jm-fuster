@@ -24,7 +24,7 @@ If you want to check rather than take my word for it, the commit history is the 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 [<img src="assets/pickpal.webp" alt="PickPal running on a phone and a laptop: a list of the people you keep track of, and AI-generated gift ideas with prices and shop links for one of them.">](https://jorgemolinafuster.com/work/pickpal)
 
@@ -33,13 +33,22 @@ If you want to check rather than take my word for it, the commit history is the 
 [Live](https://pickpal.jorgemolinafuster.com) · [Case study](https://jorgemolinafuster.com/work/pickpal) · [Design system](https://www.figma.com/community/file/1680278814366911639) · [Code](https://github.com/jm-fuster/PickPal)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 [<img src="assets/flysplit.webp" alt="FlySplit running on a phone against a sky with a light aircraft: featured panoramic flights with their pilot, route, price and duration.">](https://jorgemolinafuster.com/work/flysplit-flight-sharing)
 
 **FlySplit** · Cost sharing for non-commercial flights. Master's thesis, highest distinction.
 
 [Case study](https://jorgemolinafuster.com/work/flysplit-flight-sharing) · [Design system](https://www.figma.com/community/file/1677753839261033635)
+
+</td>
+<td width="33%" valign="top">
+
+[<img src="assets/fillgood.webp" alt="Fill Good: the headline «Compra lo justo, ahorra más» next to a pantry list whose items are tagged in stock, expiring in 2 days or expired, with a notification that the yogurt expires soon.">](https://fillgood.jorgemolinafuster.com)
+
+**Fill Good** · Pantry, shared shopping list, AI-read receipts and weekly menus for the whole household. My own product, in production.
+
+[Live](https://fillgood.jorgemolinafuster.com) · [Code](https://github.com/jm-fuster/fill-good)
 
 </td>
 </tr>
